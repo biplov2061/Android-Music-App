@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="play_button">#008000</color>
+    <color name="light_coffee">#E2B18F</color>
+    <color name="pause_button">#F44336</color>
+    <color name="artist">#E0E0E0</color>
+</resources>
