@@ -56,11 +56,12 @@
 
             <ImageButton
                 android:id="@+id/imageButton4"
-                android:layout_width="37dp"
-                android:layout_height="wrap_content"
+                android:layout_width="46dp"
+                android:layout_height="match_parent"
                 android:background="@color/light_coffee"
                 android:paddingTop="5dp"
-                app:srcCompat="@drawable/outline_dehaze_24" />
+                android:scaleType="fitCenter"
+                app:srcCompat="@drawable/music" />
 
             <TextView
                 android:id="@+id/textView4"
@@ -77,7 +78,7 @@
             android:id="@+id/linearLayout3"
             android:layout_width="392dp"
             android:layout_height="75dp"
-            android:layout_marginBottom="112dp"
+            android:layout_marginBottom="104dp"
             android:orientation="vertical"
             android:paddingLeft="14dp"
             app:layout_constraintBottom_toTopOf="@+id/rvSongs"
